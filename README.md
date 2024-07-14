@@ -1,5 +1,5 @@
 First we have to enter any location and after that enter the search button.
-when you enter city and search first press news and then press weather and again when you enter city and search first press weather and city like this.
+First press news and then weather and again when you enter city and search then  first press news and then weather  like this.
 conclusion is when you enter the location and search you can see news of that location and weather.
 Also I added the media queries to see the website both in laptop and phone.
 and also sunny,cloudy images changes according to the weather also added the wind and humidity.
