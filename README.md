@@ -1,8 +1,12 @@
-# React + Vite
+First we have to enter any location and after that enter the search button.
+when you enter city and search first press news and then press weather and again when you enter city and search first press weather and city like this.
+conclusion is when you enter the location and search you can see news of that location and weather.
+Also I added the media queries to see the website both in laptop and phone.
+and also sunny,cloudy images changes according to the weather also added the wind and humidity.
+I also added UI to friendly website to look beautifully and added the react components for more interactive and effective website.
+USED API for weather is openweather website
+and for news is news api
+both are free api
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+compenets used
+react hooks,functions and map api etc.
